@@ -1,7 +1,11 @@
-# RESTful-API-movie-booking
-A simple restful api for movie booking system
+This project is under development.
 
-## Swagger UI integration
+- [x] user crud operation
+- [x] movie crud operation
+- [ ] book movie for a user
+- [ ] more
+
+### Swagger UI integration
 add following dependency into pom.xml
 ```
 <dependency>
